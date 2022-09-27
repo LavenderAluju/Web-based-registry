@@ -1,1 +1,4 @@
 # web-based-registry
+Before using the web register system, a portal is first created, where doctors or nurses or the one using the system are required to have an account. A registration page is created that allows users to register in the system. Once they complete the registration they are directed to a login page. The login page expects a password and a username.
+
+Once the user is authenticated, they are redirected to the homepage, which lists patients who have been registered in the system. Showing their name, contacts and the reason for admission in the facility. In the homepage navigation menu bar there is home, add patient menu, about, contact and logout. These are links to individual pages of the system. Add patient menu takes one to the page that allows a user to receive a patient by registering them into the system.
